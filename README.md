@@ -41,10 +41,10 @@ Open your preferred command line application and enter the following command: `g
 
 ### Setting up the project in Unity
 This project makes use of multi-scene workflow. In order to make sure that everything works as expected, please follow these steps:
-1. In the **Project** tab, navigate to **Assets > ClassicSponza > Scenes**.
-2. Open **Sponza** scene.
-3. Once it finishes loading, right-click on the **SponzaLightingDay** scene and select the **Open Scene Additive** option.
-4. In the **Hierarchy** panel, right-click on the SponzaLightingDay scene, and select the **Set Active Scene** option.
+1. In the **Project** tab, navigate to **Assets > _APV **.
+2. Open **Sponza-APV** scene.
+3. Once it finishes loading, right-click on the **SponzaLightingAPV** scene and select the **Open Scene Additive** option.
+4. In the **Hierarchy** panel, right-click on the SponzaLightingAPV scene, and select the **Set Active Scene** option.
 
 Note that the initial shader compilation stage might take some time. There is a chance that nothing might be visible in the viewport before its completion.
 
