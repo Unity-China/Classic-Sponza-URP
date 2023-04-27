@@ -6,6 +6,8 @@ This repository is altered version for Unity New feature [Adaptive Probe Volumes
 
 ![Sponza-APV](ClassicSponza_UnityRemaster.jpg)
 
+#### YouTube Video Tutorial: [Lighting tutorial: 4 techniques to light environments in Unity | Unite 2022](https://www.youtube.com/watch?v=DlxuvvYZO4Q&t=922s)
+
 ## Summary
 
 The Atrium Sponza Palace scene is widely used by graphics programmers and artists. It provides with an ideal lighting test environment, as it features both indoor and outdoor areas. 
