@@ -20,8 +20,7 @@ The goal of this conversion was to modernize the project in key areas, making it
 - Full compatibility with Unity's Universal Render Pipelines.
 - All textures and materials are PBR-compliant.
 - Physical lighting and exposure.
-- Manually authored lightmap UVs.
-- Baked global illumination using the Progressive Lightmapper.
+- Baked Indirect lighting using the Adaptive Probe Volumes (APV).
 
 ## Setup
 
