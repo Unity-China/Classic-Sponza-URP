@@ -2,7 +2,7 @@
 
 ## Information
 
-This repository is altered version for Unity New feature Adaptive Probe Volumes (APV) from project of [Classic Sponza repository page](https://github.com/Unity-Technologies/Classic-Sponza).
+This repository is altered version for Unity New feature [Adaptive Probe Volumes (APV)](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects/c/2048-adaptive-probe-volumes-apv-urp) from project of [Classic Sponza repository page](https://github.com/Unity-Technologies/Classic-Sponza).
 
 ![Sponza-APV](ClassicSponza_UnityRemaster.jpg)
 
