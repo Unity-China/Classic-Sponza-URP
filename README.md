@@ -14,13 +14,16 @@ The Atrium Sponza Palace scene is widely used by graphics programmers and artist
 
 The goal of this conversion was to modernize the project in key areas, making it compliant with modern rendering standards.
 
-
 ### Features
 
 - Full compatibility with Unity's Universal Render Pipelines.
 - All textures and materials are PBR-compliant.
 - Physical lighting and exposure.
 - Baked Indirect lighting using the Adaptive Probe Volumes (APV).
+
+## Requirements
+
+Unity Editor 2023.1.0b13 or Newer
 
 ## Setup
 
