@@ -2,9 +2,9 @@
 
 ## Information
 
-This repository is from the [Classic Sponza repository page](https://github.com/Unity-Technologies/Classic-Sponza).
+This repository is altered version for Unity New feature Adaptive Probe Volumes (APV) from project of [Classic Sponza repository page](https://github.com/Unity-Technologies/Classic-Sponza).
 
-![Sponza-APV](Classic Sponza - Unity Remaster.jpg)
+![Sponza-APV](ClassicSponza_UnityRemaster.jpg)
 
 ## Summary
 
@@ -12,11 +12,10 @@ The Atrium Sponza Palace scene is widely used by graphics programmers and artist
 
 The goal of this conversion was to modernize the project in key areas, making it compliant with modern rendering standards.
 
-Please refer to the [Releases](https://github.com/Unity-Technologies/Classic-Sponza/releases) page for Unity editor and Render Pipeline compatibility.
 
 ### Features
 
-- Full compatibility with Unity's High Definition, Universal, and Built-in Render Pipelines.
+- Full compatibility with Unity's Universal Render Pipelines.
 - All textures and materials are PBR-compliant.
 - Physical lighting and exposure.
 - Manually authored lightmap UVs.
@@ -29,23 +28,14 @@ Please refer to the [Releases](https://github.com/Unity-Technologies/Classic-Spo
 #### Important note
 This project makes use of [Git Large Files Support (LFS)](https://git-lfs.github.com). You need to install LFS on your local machine first. **Do not download the project via the Download ZIP option.** Once you have installed LFS, please follow the steps outlined below.
 
-#### Branch structure
-
-This project contains multiple branches:
-* [`main`](https://github.com/Unity-Technologies/Classic-Sponza/tree/main) branch contains the **High Definition Render Pipeline** version of the project.
-* [`URP`](https://github.com/Unity-Technologies/Classic-Sponza/tree/URP) branch contains the **Universal Render Pipeline** version of the project.
-* [`BiRP`](https://github.com/Unity-Technologies/Classic-Sponza/tree/BiRP) branch contains the **Built-in Render Pipeline** version of the project.
-
-After pulling the project, checkout the branch which contains your desired render pipeline version of the project.
-
 #### Using the GitHub Desktop client
 Click on the green Code button at the top, and select *Open in Desktop* option.
 
 #### Using alternative git clients
-Paste the following web URL into your preferred git client: `https://github.com/Unity-Technologies/Classic-Sponza.git`.
+Paste the following web URL into your preferred git client: `https://github.com/michael430/Classic-Sponza-URP`.
 
 #### Using command line or terminal
-Open your preferred command line application and enter the following command: `git clone https://github.com/Unity-Technologies/Classic-Sponza.git`.
+Open your preferred command line application and enter the following command: `git clone https://github.com/michael430/Classic-Sponza-URP`.
 
 ### Setting up the project in Unity
 This project makes use of multi-scene workflow. In order to make sure that everything works as expected, please follow these steps:
