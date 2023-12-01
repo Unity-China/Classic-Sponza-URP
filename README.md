@@ -36,10 +36,10 @@ This project makes use of [Git Large Files Support (LFS)](https://git-lfs.github
 Click on the green Code button at the top, and select *Open in Desktop* option.
 
 #### Using alternative git clients
-Paste the following web URL into your preferred git client: `https://github.com/michael430/Classic-Sponza-URP`.
+Paste the following web URL into your preferred git client: `https://github.com/Unity-China/Classic-Sponza-URP`.
 
 #### Using command line or terminal
-Open your preferred command line application and enter the following command: `git clone https://github.com/michael430/Classic-Sponza-URP`.
+Open your preferred command line application and enter the following command: `git clone https://github.com/Unity-China/Classic-Sponza-URP`.
 
 ### Setting up the project in Unity
 This project makes use of multi-scene workflow. In order to make sure that everything works as expected, please follow these steps:
